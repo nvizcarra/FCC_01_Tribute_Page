@@ -1,0 +1,53 @@
+/* Font. */
+body {
+    font-family: 'Prociono';  
+  }
+  
+  /* Centered title and subtitle. */
+  /* hx styles. */
+  h1 {
+    padding-top: 1em;
+    text-shadow: 2px 2px gray;
+  }
+  h2 {
+    padding-top: 1%;
+    font-size: 1.2em;
+  }
+  
+  h4 {
+    text-align: left;
+    margin-left: 20%;
+    margin-top: 1em;
+  }
+  
+  h5 {
+    margin-top: 1em;
+  }
+  h1, h2, h5, h6, figcaption, p, a {
+    text-align: center;
+  }
+  
+  /* Gray div style. */
+  .gray {
+    background-color: #ececec;
+    border-radius: 10px;
+    margin-top: 3em;
+    margin-bottom: 2.5%;
+  }
+  
+  /* Bootstrap <figure> padding. */
+  #remove-padding {
+    padding: 4px 4px 4px 4px;
+  }
+  
+  /* List style. */
+  ul {
+    padding-right: 20%;
+    padding-left: 20%;
+    font-size: 0.95em;
+  }
+  
+  /* More about him. */
+  #more {
+    font-size: 1.2em;
+  }
